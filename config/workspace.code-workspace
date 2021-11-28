@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../pictweet"
+		},
+		{
+			"path": "../../chat-app"
+		}
+	],
+	"settings": {}
+}
